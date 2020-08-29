@@ -23,7 +23,7 @@ A Medication-Symptom Database built using SQL and Tkinter
 
 ### Built With
 * [SQLite3](https://www.sqlite.org/index.html) - SQLite3
-* [tkinter](https://docs.python.org/3/library/tkinter.html) - Python GUI
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - Python GUI
   
 ### License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
