@@ -3,7 +3,7 @@ A Medication-Symptom Database built using SQL and Tkinter
 
 ### Getting Started
 1. Make sure you have Python 3 Installed
-2. Run dc_create.py to create a new SQL database
+2. Run db_create.py to create a new SQL database
 3. Run db_gui.py to add, remove, view and delete records
   
 ### Adding A Record
