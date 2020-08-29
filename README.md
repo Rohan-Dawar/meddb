@@ -2,24 +2,24 @@
 A Medication-Symptom Database built using SQL and Tkinter
 
 ### Getting Started
-1. Make sure you have Python 3 Installed
-2. Run db_create.py to create a new SQL database
-3. Run db_gui.py to add, remove, view and delete records
+1) Make sure you have Python 3 Installed
+2) Run db_create.py to create a new SQL database
+3) Run db_gui.py to add, remove, view and delete records
   
 ### Adding A Record
-- Enter values into the fields next to each parameter
-- Click "Add Record To Database"
-- This will add an entry with the parameter values supplied, current date time and record id #
+1) Enter values into the fields next to each parameter
+2) Click "Add Record To Database"
+3) This will add an entry with the parameter values supplied, current date time and record id #
 
 ### Viewing / Deleting Records
-- Click "Show Records" to see a list of your entries
-- The last value in each records represents the record id #
-- To delete a record, enter this value in the "ID #" field and click "Delete Record"
+1) Click "Show Records" to see a list of your entries
+2) The last value in each records represents the record id #
+3) To delete a record, enter this value in the "ID #" field and click "Delete Record"
 
 ### Editing A Previous Record
-- Enter the record id # into the "ID #" field and click "Edit Record"
-- You will be taken to a window where you can update the values for each parameter
-- Click "Save Record" when you are finished
+1) Enter the record id # into the "ID #" field and click "Edit Record"
+2) You will be taken to a window where you can update the values for each parameter
+3) Click "Save Record" when you are finished
 
 ### Built With
 * [SQLite3](https://www.sqlite.org/index.html) - SQLite3
